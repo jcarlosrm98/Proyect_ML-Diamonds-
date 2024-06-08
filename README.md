@@ -11,8 +11,9 @@ Este proyecto ha sido generado en Python:
 Librerías utilizadas en Python:
 
 1. "Pandas" para obtener y devolver DataFrames.
-2. "sk-learn" para realizar el preprocessing y entrenar modelos.
-3. "XGBOOST" como modelo utilizado.
+2. "SQLAlchemy" para poder obtener las tablas del .db
+3. "sk-learn" para realizar el preprocessing y entrenar modelos.
+4. "XGBOOST" como modelo utilizado.
 
 ## Use and operation
 
