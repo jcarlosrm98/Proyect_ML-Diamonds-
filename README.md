@@ -27,4 +27,4 @@ La competición fue realizada en: https://www.kaggle.com/competitions/ih-datamad
 
 1. Los dataframes estaban en .db y fueron utilizados desde SQLAlchemy.
 2. El preprocessing fue realizado utilizando Sklearn.
-3. El modelo elegido fue XGBOOST.
+3. El modelo elegido fue XGBRegressor para predecir los diamantes.
