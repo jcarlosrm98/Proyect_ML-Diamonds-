@@ -1,4 +1,4 @@
-# Proyect ML Diamonds
+# Proyecto Machine Learning (diamantes)
 En este repositorio encontrarás varios datasets con diversas características sobre diamantes. En este proyecto, se ha creado una competición en Kaggle para generar un modelo predictivo para lograr predecir el precio de unos diamantes. 
 El repositorio contiene dos notebooks, uno para entrenar el modelo y otro para realizarle el test.
 
